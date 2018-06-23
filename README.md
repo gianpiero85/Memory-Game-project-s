@@ -17,3 +17,4 @@ DEPENDENCIES
 Bootstrap
 jQuery
 Google Fonts
+https://gianpiero85.github.io/Memory-Game-project-s/
